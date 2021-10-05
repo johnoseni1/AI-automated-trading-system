@@ -4,7 +4,7 @@
 
 from setuptools import setup, find_packages
 setup(
-    name='Winteam Bridge',
+    name='John Oseni',
     version='1.0.0',
     description='Brosnan\'s winteam bridge',
     packages=find_packages(exclude=['*tests']),

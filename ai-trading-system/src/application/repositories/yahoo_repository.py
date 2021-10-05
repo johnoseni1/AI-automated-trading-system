@@ -1,3 +1,5 @@
+# Yahoo clients
+
 class YahooRepository:
     def __init__(self, logger, config, yahoo_client):
         self._config = config

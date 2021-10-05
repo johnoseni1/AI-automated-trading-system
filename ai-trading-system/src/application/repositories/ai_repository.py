@@ -1,3 +1,5 @@
+# AI Repository
+
 class AIRepository:
     def __init__(self, logger, config, ai_client):
         self._config = config

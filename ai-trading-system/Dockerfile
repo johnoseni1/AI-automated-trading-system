@@ -16,3 +16,6 @@ HEALTHCHECK --timeout=30s --interval=1m30s --retries=5 \
   CMD curl -s --fail http://localhost:8081/_health || exit 1
 
 CMD ["python3", "-u", "src/app.py"]
+
+
+# ;

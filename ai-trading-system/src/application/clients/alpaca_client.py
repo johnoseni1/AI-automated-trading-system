@@ -1,5 +1,9 @@
+# Libraries Imported from
+
 import alpaca_trade_api as alpaca
 
+
+# clients I used
 
 class AlpacaClient:
     def __init__(self, logger, config):

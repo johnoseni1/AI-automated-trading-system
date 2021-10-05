@@ -9,7 +9,7 @@
 # For full config options, check the docs:
 #    docs.serverless.com
 #
-# Happy Coding!
+# Happy Coding
 
 service: ai-trading-system
 # app and org for use with dashboard.serverless.com

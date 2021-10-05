@@ -1,10 +1,15 @@
 import asyncio
 
+# Panda Library
+
 import pandas as pd
+
+# numpy Library
 import numpy as np
 
 from statsmodels.tsa.arima.model import ARIMA
 
+# Class for the trading system/
 
 class TradingSystem:
     def __init__(self, logger, config, yahoo_repository, ai_repository, alpaca_repository):

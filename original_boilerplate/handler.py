@@ -15,7 +15,7 @@ import os
 import matplotlib.pyplot as plt 
 plt.style.use('fivethirtyeight')
 
-
+# Robin hood details
 RH_USER_EMAIL = os.environ['RH_USER_EMAIL']
 RH_PASSWORD = os.environ['RH_PASSWORD']
 RH_MFA_CODE = os.environ['RH_MFA_CODE']
