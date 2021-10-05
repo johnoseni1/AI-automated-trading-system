@@ -1,4 +1,6 @@
 # Distribution / packaging
+
+# Packages that are used
 .Python
 venv/
 env/
